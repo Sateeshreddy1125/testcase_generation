@@ -1,0 +1,12 @@
+
+Cell Throughput Verdict
+Cell0 DL Throughput = 1220.43 Mbps [Range:750.0-950.0] -  Fail
+Cell0 UL Throughput = 27.52 Mbps [Range:0.0-40.0] - Pass
+Cell0 bler = 0.03 [Range: 0 - 2.2] - Pass
+INVITE: 64 [Range: 44.0 - 84.0] -- Pass
+ACK: 64 [Range: 44.0 - 84.0] -- Pass
+100/INVITE: 64 [Range: 44.0 - 84.0] -- Pass
+
+Not a Handover scenario to provide verdict
+
+Mesaage counter verdict
